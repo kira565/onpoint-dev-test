@@ -1,0 +1,16 @@
+.section {
+    height: 100vh;
+    width: auto;
+    background-size: contain;
+}
+
+
+.section__one {
+    background: url("../../src/etc/img/export1.png") no-repeat  center center;
+    background-size: 100% 100%;
+}
+
+.section__second {
+    background: url("../../src/etc/img/export2.png") no-repeat  center center;
+    background-size: 100% 100%;
+}

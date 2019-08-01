@@ -1,0 +1,21 @@
+.head__space {
+    height: 33.1vh;
+}
+
+.text__area {
+    height: 13.34vh;
+    text-align: center;
+    color: white;
+}
+
+.text__area h1 {
+    font-family: 'Fira Sans', sans-serif;
+    letter-spacing: -0.1px;
+    font-size: 7vh;
+    font-weight: 200;
+    font-stretch: ultra-expanded;
+}
+
+.footer__space {
+    height: 53.35vh;
+}

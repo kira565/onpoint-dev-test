@@ -1,0 +1,55 @@
+.iceberg__layer_sec2 {
+    position: absolute;
+    height: 100vh;
+    top: 100vh;
+    width: 100%;
+}
+.sec2__rows {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+}
+.sec2__firstRow_iceberg {
+    height: 33.3vh;
+}
+.sec2__secondRow_iceberg {
+    height: 53.39vh;
+}
+
+.image_iceberg img {
+    position: static;
+}
+.sec2__secondRow__iceberg_iceberg1 {
+    margin-left: 10%;
+    height: 60%;
+    width: 20%;
+    z-index: 1;
+
+}
+.sec2__secondRow__iceberg_iceberg1 img{
+    height: 40%;
+    width: 40%;
+}
+.sec2__secondRow__iceberg_iceberg2 {
+    margin-right: 10%;
+    align-self: center;
+}
+
+@media (width: 1024px) and (height: 768px) {
+   .sec2__firstRow__iceberg_iceberg2 {
+        align-self: baseline;
+       display: flex;
+    }
+}
+@media (height: 1024px) and (width: 768px){
+    .sec2__firstRow__iceberg_iceberg2 {
+        align-self: baseline;
+        display: flex;
+    }
+    .sec2__firstRow__iceberg_iceberg2 img{
+        align-self: baseline;
+    }
+}

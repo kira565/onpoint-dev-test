@@ -1,0 +1,29 @@
+.footer__scrollBtnContainer {
+    position: fixed;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    background: rgb(246,162,6);
+    background: radial-gradient(ellipse at bottom, rgba(246,162,6,1) 15%,  transparent 60%, rgba(255,255,255,0) 85%) no-repeat center;
+    background-size: 55%;
+    height: 11vh;
+    z-index: 999999999;
+}
+
+.footer__scrollBtnContainer {
+    text-align: center;
+    cursor: pointer;
+}
+
+.arrow img {
+    height: 3vh;
+    width: 6vh;
+}
+
+.text {
+    color: white;
+    font-family: 'Fira Sans', sans-serif;
+}
+.active a{
+    color: green;
+}

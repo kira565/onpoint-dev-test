@@ -1,0 +1,41 @@
+.iceberg__layer_sec3 {
+    position: absolute;
+    height: 100vh;
+    top: 200vh;
+    width: 100%;
+}
+
+.sec3__rows{
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+}
+
+.sec3__firstRow_iceberg {
+    height: 18.36vh;
+    display: flex;
+}
+.sec3__firstRow__iceberg_iceberg1 {
+    align-self: flex-end;
+}
+
+.sec3__secondRow_iceberg {
+    height: 58.4vh;
+    display: flex;
+    justify-content: flex-end;
+
+}
+.sec3__secondRow__iceberg_iceberg1{
+
+}
+
+.sec3__thirdRow_iceberg {
+    height: 23.37vh;
+    padding-left: 40vh;
+}
+.sec3__thirdRow__iceberg_iceberg1 {
+    transform: scaleX(3);
+}
+.sec3__thirdRow__iceberg_iceberg1 img {
+    height: 100%;
+    width: 100%;
+}

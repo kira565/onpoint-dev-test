@@ -1,0 +1,105 @@
+.header {
+    padding-top: 10.36%;
+
+}
+.header__title_text h1 {
+    font-size: 3.5em;
+    font-family: 'Fira Sans', sans-serif;
+    letter-spacing: -0.48px;
+    font-weight: 400;
+    color: #0d319c;
+}
+.mountains {
+    height: 54.4%;
+}
+
+.secondRow {
+    margin-top: 8vh;
+    margin-right: 14vh;
+}
+.thirdRow {
+    margin-top: 7vh;
+    margin-left: 11vh;
+
+}
+.mountains__pointBox{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.pointBox_big {
+    right: 5%;
+}
+
+.pointBox__circle {
+    width: 4em;
+    height: 4em;
+    border-radius: 100%;
+    border: 0.1em solid orangered;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.pointBox__circle_elem {
+    width: 1em;
+    height: 1em;
+    border-radius: 100%;
+    background-color: orangered;
+    opacity: 0.7;
+}
+.pointBox__circle_elem:before,
+.pointBox__circle_elem:after {
+    border: 0.1em solid orangered;
+    content: "";
+    width: 1em;
+    height: 1em;
+    display: block;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: 100%;
+    transform-origin: center center;
+    opacity: 0.5;
+    box-sizing: border-box;
+    margin-bottom: -1em;
+}
+.pointBox__circle_elem::after {
+    animation: pulse 1.1s linear infinite;
+}
+.pointBox__circle_elem::before {
+    animation: pulse2 0.7s linear infinite;
+}
+.box_small{
+
+    width: 2em;
+    height: 2em;
+}
+
+.pointBox__text{
+    margin-left: 10px;
+    font-family: 'Fira Sans', sans-serif;
+    color: #0d319c;
+
+}
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+        opacity: 0.2;
+    }
+    100% {
+        transform: scale(3.5);
+        border: 2px solid orangered;
+        opacity: 0.6;
+    }
+}
+@keyframes pulse2 {
+    0% {
+        transform: scale(1);
+        opacity: 0.5;
+    }
+    100% {
+        transform: scale(1.75);
+        opacity: 1;
+    }
+}

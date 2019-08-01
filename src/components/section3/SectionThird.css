@@ -1,0 +1,30 @@
+.space__head_s3 {
+    height: 15.01vh;
+}
+.header__title_s3 {
+    height: 3.38vh;
+}
+.header__text_s3 h2{
+    color: white;
+    font-family: 'Fira Sans', sans-serif;
+}
+.table_s3 {
+    padding-top: 3vh;
+    height: 61.6vh;
+    margin: 0 auto;
+}
+.space__footer_s3 {
+    height: 20.01vh;
+}
+
+
+@media (width: 1024px) and (height: 768px) {
+   .header__text_s3 {
+       margin-left: 25%;
+   }
+}
+@media (height: 1024px) and (width: 768px){
+    .header__text_s3 {
+        margin-left: 2vh;
+    }
+}

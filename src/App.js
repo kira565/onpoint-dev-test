@@ -1,26 +1,31 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
+import SectionFirst from "./components/section1/SectionFirst";
+import SectionSecond from "./components/section2/SectionSecond";
+import SectionThird from "./components/section3/SectionThird";
+import {Element} from "react-scroll"
+import PageScrollsContainer from "./components/PageScrolls/PageScrollsContainer";
+import IceCubicParallax from "./components/iceCubic/IceCubicParallax";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+const App = () => {
+    return <>
+        <div className="layout">
+            <PageScrollsContainer/>
+            <div className="container">
+                <Element name="section1" className="element">
+                    <SectionFirst/>
+                </Element>
+                <Element name="section2" className="element">
+                    <SectionSecond/>
+                </Element>
+                <Element name="section3" className="element">
+                    <SectionThird/>
+                </Element>
+            </div>
+        </div>
+       <IceCubicParallax/>
+    </>
+};
 
 export default App;
