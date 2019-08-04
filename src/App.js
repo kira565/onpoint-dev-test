@@ -8,6 +8,8 @@ import {Element} from "react-scroll"
 import PageScrollsContainer from "./components/PageScrolls/PageScrollsContainer";
 import IceCubicParallax from "./components/iceCubic/IceCubicParallax";
 
+
+
 const App = () => {
     return <>
         <div className="layout">

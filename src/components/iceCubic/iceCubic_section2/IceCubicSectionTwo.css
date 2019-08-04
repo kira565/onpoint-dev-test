@@ -38,12 +38,6 @@
     align-self: center;
 }
 
-@media (width: 1024px) and (height: 768px) {
-   .sec2__firstRow__iceberg_iceberg2 {
-        align-self: baseline;
-       display: flex;
-    }
-}
 @media (height: 1024px) and (width: 768px){
     .sec2__firstRow__iceberg_iceberg2 {
         align-self: baseline;

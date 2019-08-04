@@ -1,4 +1,5 @@
 import React from 'react'
+import './IceCubicSectionThree.css'
 import iceCopy7 from '../../../etc/img/icebergParallax/sec3/ice copy 7.png'
 import iceCopy8 from '../../../etc/img/icebergParallax/sec3/ice copy 8.png'
 import iceCopy9 from '../../../etc/img/icebergParallax/sec3/ice copy 9.png'
