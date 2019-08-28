@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="286ccd46-e2b9-4d3a-8bb3-b7c7afcc163d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/iceCubic/iceCubic_section2/IceCubicSectionTwo.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/iceCubic/iceCubic_section2/IceCubicSectionTwo.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/iceCubic/iceCubic_section3/IceCubicSectionThree.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/iceCubic/iceCubic_section3/IceCubicSectionThree.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/iceCubic/iceCubic_section3/IceCubicSectionThree.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/iceCubic/iceCubic_section3/IceCubicSectionThree.js" afterDir="false" />
-    </list>
+    <list default="true" id="286ccd46-e2b9-4d3a-8bb3-b7c7afcc163d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -21,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="83">
@@ -29,84 +22,6 @@
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="App.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/App.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IceCubicSectionThree.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/iceCubic/iceCubic_section3/IceCubicSectionThree.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2">
-              <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IceCubicSectionThree.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/iceCubic/iceCubic_section3/IceCubicSectionThree.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="34" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/index.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SectionFirst.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/section1/SectionFirst.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-272">
-              <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IceCubicSectionTwo.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/components/iceCubic/iceCubic_section2/IceCubicSectionTwo.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SectionThird.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/section3/SectionThird.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SectionSecond.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/section2/SectionSecond.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -255,23 +170,7 @@
               <item name="on-point-test" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="iceCubic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="on-point-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="on-point-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="iceCubic" type="462c0819:PsiDirectoryNode" />
-              <item name="iceCubic_section2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="on-point-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="on-point-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="iceCubic" type="462c0819:PsiDirectoryNode" />
-              <item name="iceCubic_section3" type="462c0819:PsiDirectoryNode" />
+              <item name="section1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -293,17 +192,17 @@
     <property name="settings.editor.selected.configurable" value="IntelliLang.Configuration" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Kira\WebstormProjects\on-point-test\src\components\iceCubicParallax\iceCubicParallax_section2" />
-      <recent name="C:\Users\Kira\WebstormProjects\on-point-test\src\components\iceCubicParallax\iceCubicParallax_section3" />
-      <recent name="C:\Users\Kira\WebstormProjects\on-point-test\src\components\iceCubicParallax" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Kira\WebstormProjects\on-point-test\src\components" />
       <recent name="C:\Users\Kira\WebstormProjects\on-point-test\src\components\SchemaSVG" />
       <recent name="C:\Users\Kira\WebstormProjects\on-point-test\src\components\section3" />
       <recent name="C:\Users\Kira\WebstormProjects\on-point-test\src\components\section2" />
       <recent name="C:\Users\Kira\WebstormProjects\on-point-test\src\components\section1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kira\WebstormProjects\on-point-test\src\components\iceCubicParallax\iceCubicParallax_section2" />
+      <recent name="C:\Users\Kira\WebstormProjects\on-point-test\src\components\iceCubicParallax\iceCubicParallax_section3" />
+      <recent name="C:\Users\Kira\WebstormProjects\on-point-test\src\components\iceCubicParallax" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -340,7 +239,7 @@
       <workItem from="1564585130069" duration="23401000" />
       <workItem from="1564637498750" duration="984000" />
       <workItem from="1564917028156" duration="169000" />
-      <workItem from="1564917221449" duration="2250000" />
+      <workItem from="1564917221449" duration="2947000" />
     </task>
     <task id="LOCAL-00001" summary="release v1">
       <created>1564638163993</created>
@@ -349,14 +248,22 @@
       <option name="project" value="LOCAL" />
       <updated>1564638163993</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="release v1">
+      <created>1564919559000</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1564919559000</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="133594000" />
+    <option name="totallyTimeSpent" value="134291000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -654,9 +561,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/section1/SectionFirst.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/logo.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -683,30 +587,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/section1/SectionFirst.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-272">
-          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -724,20 +608,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/iceCubic/iceCubic_section3/IceCubicSectionThree.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2">
-          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/SchemaSVG/SvgJsxScheme.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -747,8 +617,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/iceCubic/iceCubic_section2/IceCubicSectionTwo.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
+        <state relative-caret-position="663">
           <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/iceCubic/iceCubic_section3/IceCubicSectionThree.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/section1/SectionFirst.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/section1/SectionFirst.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
